@@ -1,5 +1,5 @@
 ###########################
-# ENVIRONMENTAL VARIABLES #
+# ENVIRONMENTAL VARIABLES ##
 ###########################
 
 export EDITOR="vim"
