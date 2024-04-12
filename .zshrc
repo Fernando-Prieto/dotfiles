@@ -3,7 +3,7 @@
 # 1) iTerm2
 # $ brew cask install iterm2
 #
-# 2) Font
+# 2) Fonts
 # https://github.com/powerline/fonts/blob/master/SourceCodePro/Source%20Code%20Pro%20for%20Powerline.otf
 #
 # 2) Oh My Zsh
