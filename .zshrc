@@ -1,4 +1,4 @@
-# To use ZSH bundle you need to install the following1:
+# To use ZSH bundle you need to install the following12:
 #
 # 1) iTerm2
 # $ brew cask install iterm2
